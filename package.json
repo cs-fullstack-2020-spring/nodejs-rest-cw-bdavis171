@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-rest-cw-bdavis171",
+  "version": "1.0.0",
+  "description": "node.js REST classwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/nodejs-rest-cw-bdavis171.git"
+  },
+  "author": "Brandon Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/nodejs-rest-cw-bdavis171/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/nodejs-rest-cw-bdavis171#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
